@@ -1,34 +1,4 @@
 //Array de objetos de frutas
-/*let frutas = [
-    {
-        nombre: "manzana",
-        color: "rojo"
-    },
-    {
-        nombre: "naranja",
-        color: "naranja"
-    },
-    {
-        nombre: "plátano",
-        color: "amarillo"
-    },
-    {
-        uva: 'uva',
-        color: 'verde'
-    },
-    {
-        nombre: 'mandarina',
-        color: 'naranja'
-    },
-    {
-        nombre: 'fresa',
-        color: 'rojo'
-    },
-    {
-        nombre: 'mango',
-        color: 'amarillo'
-    }]
-*/
 
 let carrito = ['manzana', 'naranja', 'pera', 'sandia', 'fresa', 'mango', 'mango', 'mandarina', 'manzana', 'manzana', 'melón', 'uva', 'pera', 'mango', 'mango'];
 
