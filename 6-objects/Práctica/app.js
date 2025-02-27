@@ -1,4 +1,4 @@
-// PROYECTO OBJETOS EN JS
+// PROYECTO OBJETOS EN JS   |   |
 //Crear un objeto libro que contenga varias propiedades y un método para imprimir la información básica del libro.
 
 const libro = {
