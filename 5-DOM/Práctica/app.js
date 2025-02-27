@@ -58,7 +58,7 @@ function agregarComentario(comentarios, comentarioInput, listaComentarios) {
         listaComentarios.removeChild(nuevoItem); // Elimina el comentario cuando le doy click
 });
 
-// 🔹 Agregar botón al comentario
+// finalment agrergo el botón al comentario
 nuevoItem.appendChild(botonEliminar);
 
     }
